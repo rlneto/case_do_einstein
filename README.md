@@ -1,5 +1,7 @@
 # case_do_einstein
 Solução do case que me foi proposto para o PS do Einstein['Vale do Silício']
+Autor: Rudolfo Lange Neto <rudolflange em gmail>
+
 -----------------------
 
 	README
@@ -45,4 +47,4 @@ Armazena-se o retorno da função em uma variável (acertos) a fim de poupar tem
 
 5. Conclusão
 
-Por fim, gera-se uma row com os dados totais pedidos além do "Total de acertos" a fim de evitar gatilhos de OCD.
+Por fim, gera-se uma row com os dados totais pedidos além do "Total de acertos" a fim de evitar gatilhos de OCD e é impresso o DataFrame na tela.
