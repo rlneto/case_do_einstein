@@ -1,19 +1,20 @@
-# case_do_einstein
-Solução do case que me foi proposto para o PS do Einstein['Vale do Silício']
-Autor: Rudolfo Lange Neto, rudolflange em gmail
+<h1># case_do_einstein</h1>
+<h2>Solução do case que me foi proposto para o PS do Einstein['Vale do Silício']
+<br>
+Autor: Rudolfo Lange Neto, rudolflange em gmail</h2>
 
 -----------------------
 
 	README
 
 -----------------------
-Conteúdo
+<h3>Conteúdo
 
 1. Bibliotecas
 2. Funções
 3. Inicialização
 4. Rotina
-5. Conclusão
+5. Conclusão</h3>
 
 -----------------------
 
