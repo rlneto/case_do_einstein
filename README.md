@@ -1,6 +1,6 @@
 # case_do_einstein
 Solução do case que me foi proposto para o PS do Einstein['Vale do Silício']
-Autor: Rudolfo Lange Neto <rudolflange em gmail>
+Autor: Rudolfo Lange Neto, rudolflange em gmail
 
 -----------------------
 
