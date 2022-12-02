@@ -1,10 +1,10 @@
 # case_do_einstein
 Solução do case que me foi proposto para o PS do Einstein['Vale do Silício']
+-----------------------
 
-=======================
 	README
-=======================
 
+-----------------------
 Conteúdo
 
 1. Bibliotecas
@@ -13,7 +13,7 @@ Conteúdo
 4. Rotina
 5. Conclusão
 
-=======================
+-----------------------
 
 1. Bibliotecas
 
