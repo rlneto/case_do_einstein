@@ -41,7 +41,7 @@ Criam-se as variáveis gabarito e respostas, iguala-se o case das respostas dos 
 4. Rotina
 
 É gerado o template do relatório em um DataFrame vazio.
-Armazena-se o retorno da função em uma variável (acertos) a fim de poupar tempo de processamento, uma vez que a função seria chamada 3 vezes por iteração, em 37 iterações, totalizando 91 chamadas da função.
+Armazena-se o retorno da função em uma variável (acertos) a fim de poupar tempo de processamento, uma vez que a função seria chamada 3 vezes por iteração, em 37 iterações, totalizando 111 chamadas da função.
 É então gerado um dataframe que incorpora as informações desejadas para cada aluno e é feita a concatenação dos dados ao dataframe "relatorio".
 
 -----------------------
